@@ -25,7 +25,7 @@
 | **[portctl](https://portctl.pages.dev)** | Modern Systems | Pure Rust, Cloudflare Tunnels, POSIX | Zero-daemon port manager, socket probe, and instant edge ingress. `brew install tackelua/tap/portctl` |
 | **[AutoMiner](https://autominer-archived.githsoft.com)** | IoT Hardware | C++, ESP8266, Hardware Watchdog | Industrial mining rig watchdog & multi-relay power recovery controller (Archived Heritage, 2017). |
 | **[WordRadar](https://wordradar.githsoft.com)** | NLP / EdTech | Node.js, Express, SQLite, D3.js | Smart English frequency analyzer powered by SM-2 spaced repetition engine. |
-| **[YouTube Mindmap](https://mindmap.githsoft.com)** | AI Distillation | Next.js 14, MindElixir Canvas, OmniRoute | AI-driven video transcript extraction to interactive multi-dimensional mindmaps. |
+| **[YouTube Mindmap](https://mindmap.githsoft.com)** | AI Distillation | Next.js 14, MindElixir Canvas, LLM Pipeline | AI-driven video transcript extraction to interactive multi-dimensional mindmaps. |
 | **[SOS Platform](https://sosline.org)** | Civic Tech / Edge | Cloudflare Pages, Workers, D1, PWA | Humanitarian emergency rescue platform (`sosvn.vn`) running at zero infra cost. |
 | **Torvin** *(Active Dev · Private Alpha)* | Secret Vault / AI Security | Rust, AES-GCM, Argon2id, Local Enclave | Zero-knowledge secrets vault and token broker for developers & AI agents (preventing token leaks). |
 | **[GithSoft Studio](https://githsoft.com)** | Engineering Lab | Modern Web, Edge CDN | Central portal for GithSoft software tools, AI lab, and engineering publications. |
