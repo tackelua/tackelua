@@ -27,7 +27,7 @@
 | **[WordRadar](https://wordradar.githsoft.com)** | NLP / EdTech | Node.js, Express, SQLite, D3.js | Smart English frequency analyzer powered by SM-2 spaced repetition engine. |
 | **[YouTube Mindmap](https://mindmap.githsoft.com)** | AI Distillation | Next.js 14, MindElixir Canvas, OmniRoute | AI-driven video transcript extraction to interactive multi-dimensional mindmaps. |
 | **[SOS Platform](https://sosline.org)** | Civic Tech / Edge | Cloudflare Pages, Workers, D1, PWA | Humanitarian emergency rescue platform (`sosvn.vn`) running at zero infra cost. |
-| **Torvin** *(Private Tool)* | Agent Security | Rust, AES-GCM, Argon2id, Browser MV3 | Zero-knowledge identity and credential vault for developers and local workflows. |
+| **Torvin** *(Active Dev · Private Alpha)* | Secret Vault / AI Security | Rust, AES-GCM, Argon2id, Local Enclave | Bitwarden-style zero-knowledge secrets vault for developers & AI agents (preventing token leaks). |
 | **[GithSoft Studio](https://githsoft.com)** | Engineering Lab | Modern Web, Edge CDN | Central portal for GithSoft software tools, AI lab, and engineering publications. |
 | **[GithSoft Image Lab](https://imagelab.githsoft.com)** | AI Vision | On-Device AI, WebGL, Compute Workers | High-throughput AI image enhancement & neural upscaling running on client GPU. |
 
@@ -77,7 +77,7 @@
 > High-performance Rust CLI tools, distributed edge platforms, and developer tooling.
 
 - **[portctl](https://github.com/GithSoft/portctl)** *(Public, Rust)*: Local-first port manager, zombie process hunter, and automated Cloudflare Tunnel ingress.
-- **Torvin** *(Private Tool, Rust)*: Zero-knowledge password and identity vault for developers and local workflows.
+- **Torvin** *(Private Alpha, Active Dev)*: Bitwarden-style zero-knowledge secret vault and token broker for developers & AI agents.
 - **[WordRadar](https://wordradar.githsoft.com)**: NLP vocabulary frequency analyzer and spaced-repetition flashcard generator.
 - **[YouTube Mindmap](https://mindmap.githsoft.com)**: Automated transcript distillation into interactive mindmaps.
 - **[SOS Platform](https://sosline.org)**: 100% Serverless Edge humanitarian rescue platform on Cloudflare Pages, Workers, and D1 SQLite.
