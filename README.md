@@ -50,7 +50,7 @@
 <details>
 <summary>⚡ <b>IoT Hardware, Microcontrollers & Industrial Automation (Click to expand)</b></summary>
 
-> Designing custom schematics, optocoupler relay isolation, hardware watchdogs, and RTOS firmware since 2016.
+> Designing custom schematics, hardware watchdog timers, relay power controllers, and RTOS firmware since 2016.
 
 - **[AutoMiner Series (V1 – V3.1)](https://autominer-archived.githsoft.com)** ([GitHub](https://github.com/tackelua/autominer-web)): Hardware watchdog timer & multi-relay power recovery controller for mining rigs.
 - **Smart Agriculture Systems (Mushroom, AgriSystem, SmartGardenHub_DUE)**: Micro-climate automation with Arduino Due (ARM Cortex-M3), ESP8266, SHT3x sensors, and RS485.
@@ -94,7 +94,7 @@
 | **PM Tooling & Productivity**<br/>`2024 – Present` | **Developer Tooling for Team & PM**<br/>Building custom automation tools, productivity scripts, and AI-assisted workflows engineered specifically to streamline Project Management and maximize team output. | Custom developer tooling, CI/CD automation, AI-assisted team workflows. | **Active PM Multiplier** · Internal Team Tooling |
 | **Systems Tooling & Lab**<br/>`Personal Lab (GithSoft)` | **Zero-Daemon DevTools & Edge**<br/>Architecting high-speed developer utilities, local socket management, and edge platforms under [GithSoft](https://githsoft.com). | Systems design, POSIX socket probing, `fd-lock`, Cloudflare Pages/Workers/D1, Docker. | [portctl](https://portctl.pages.dev) (Rust CLI), [WordRadar](https://wordradar.githsoft.com), [YouTube Mindmap](https://mindmap.githsoft.com), [SOS Platform](https://sosline.org) |
 | **Protocol & FinTech Systems**<br/>`Core Experience` | **Reverse Engineering & Security**<br/>Inspecting proprietary banking protocols, AES/RSA decryption, OCR CAPTCHA automation, market depth streaming. | Cryptographic payload parsing, headless automation, OpenCV template matching. | VCB Digibank Suite, ImageAutoClicker-py |
-| **IoT Hardware Heritage**<br/>`2016 – 2018` | **Industrial Rig Automation**<br/>Bare-metal firmware, optocoupler relay isolation, and hardware watchdog timers deployed to 24-rig mining clusters. | Schematics design, hardware watchdog timers, microsecond ignition controllers. | [AutoMiner](https://autominer-archived.githsoft.com) (Archived Heritage), Quick-Shifter, BlynkMegaRelays |
+| **IoT Hardware Heritage**<br/>`2016 – 2018` | **Industrial Rig Automation**<br/>Bare-metal firmware, physical relay power control, and hardware watchdog timers deployed to 24-rig mining clusters. | Schematics design, hardware watchdog timers, microsecond ignition controllers. | [AutoMiner](https://autominer-archived.githsoft.com) (Archived Heritage), Quick-Shifter, BlynkMegaRelays |
 
 ---
 
