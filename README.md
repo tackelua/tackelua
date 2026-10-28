@@ -65,7 +65,7 @@
 
 > Protocol inspection, headless automation, anti-fingerprinting, and algorithmic computer vision.
 
-- **VCB Digibank Banking Suite** ([Demo on YouTube](https://www.youtube.com/@buigiathinh)): Reverse engineering encrypted banking API protocols, AES/RSA payload parsing, and automated OCR CAPTCHA solver. *(Private Core)*
+- **Encrypted Financial Protocol & Banking Automation Suite** ([Demo on YouTube](https://www.youtube.com/@buigiathinh)): Cryptographic reverse engineering of financial API protocols, AES/RSA payload parsing, and automated OCR CAPTCHA solver. *(Private Core)*
 - **[auto-close-chrome-if-door-open](https://github.com/tackelua/auto-close-chrome-if-door-open)** *(Public)*: Physical reed switch sensor integration with OS hooks for automated workspace privacy.
 - **[ImageAutoClicker-py](https://github.com/tackelua/ImageAutoClicker-py)** *(Public)*: Computer vision GUI automation using OpenCV multi-scale template matching.
 - **Binance USD-M Quantitative Bots**: High-frequency orderbook depth streaming and cross-pair arbitrage modeling.
@@ -93,7 +93,7 @@
 | **Embedded Leadership & PM**<br/>`2016 – Present` | **Engineering Lead & Project Manager**<br/>Guiding embedded teams (Qt/C++, Embedded Linux), driving technical architecture, sprint lifecycles, and cross-functional delivery. | Embedded architecture, automotive cockpit displays, team mentorship, project governance. | **Active Lead & PM** · **PMP® Practitioner**, **PSM™ Scrum Master** |
 | **PM Tooling & Productivity**<br/>`2024 – Present` | **Developer Tooling for Team & PM**<br/>Building custom automation tools, productivity scripts, and AI-assisted workflows engineered specifically to streamline Project Management and maximize team output. | Custom developer tooling, CI/CD automation, AI-assisted team workflows. | **Active PM Multiplier** · Internal Team Tooling |
 | **Systems Tooling & Lab**<br/>`Personal Lab (GithSoft)` | **Zero-Daemon DevTools & Edge**<br/>Architecting high-speed developer utilities, local socket management, and edge platforms under [GithSoft](https://githsoft.com). | Systems design, POSIX socket probing, `fd-lock`, Cloudflare Pages/Workers/D1, Docker. | [portctl](https://portctl.pages.dev) (Rust CLI), [WordRadar](https://wordradar.githsoft.com), [YouTube Mindmap](https://mindmap.githsoft.com), [SOS Platform](https://sosline.org) |
-| **Protocol & FinTech Systems**<br/>`Core Experience` | **Reverse Engineering & Security**<br/>Inspecting proprietary banking protocols, AES/RSA decryption, OCR CAPTCHA automation, market depth streaming. | Cryptographic payload parsing, headless automation, OpenCV template matching. | VCB Digibank Suite, ImageAutoClicker-py |
+| **Protocol & FinTech Systems**<br/>`Core Experience` | **Reverse Engineering & Security**<br/>Inspecting proprietary banking protocols, AES/RSA decryption, OCR CAPTCHA automation, market depth streaming. | Cryptographic payload parsing, headless automation, OpenCV template matching. | Encrypted Financial Protocol Suite, ImageAutoClicker-py |
 | **IoT Hardware Heritage**<br/>`2016 – 2018` | **Industrial Rig Automation**<br/>Bare-metal firmware, physical relay power control, and hardware watchdog timers deployed to 24-rig mining clusters. | Schematics design, hardware watchdog timers, microsecond ignition controllers. | [AutoMiner](https://autominer-archived.githsoft.com) (Archived Heritage), Quick-Shifter, BlynkMegaRelays |
 
 ---
